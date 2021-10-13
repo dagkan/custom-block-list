@@ -1,2 +1,7 @@
+Title: Daiquiri Custom Block List
+# Description: Blocks whatever I want.
+# Format: filter
+# Entries: 199594
+
 ||*.hurriyet.com.tr^$replace=/^[\s\S]*/BLOCKED/
 ||*.milliyet.com.tr^$replace=/^[\s\S]*/BLOCKED/
