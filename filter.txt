@@ -2,3 +2,6 @@
 ||*.milliyet.com.tr^$replace=/^[\s\S]*/BLOCKED/
 ||*.posta.com.tr^$replace=/^[\s\S]*/BLOCKED/
 ||*.aksam.com.tr^$replace=/^[\s\S]*/BLOCKED/
+||*.turkiye.com.tr^$replace=/^[\s\S]*/BLOCKED/
+||*.yeniakit.com.tr^$replace=/^[\s\S]*/BLOCKED/
+||*.internethaber.com^$replace=/^[\s\S]*/BLOCKED/
