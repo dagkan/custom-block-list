@@ -5,3 +5,5 @@ Title: Daiquiri Custom Block List
 
 ||*.hurriyet.com.tr^$replace=/^[\s\S]*/BLOCKED/
 ||*.milliyet.com.tr^$replace=/^[\s\S]*/BLOCKED/
+||*.posta.com.tr^$replace=/^[\s\S]*/BLOCKED/
+||*.aksam.com.tr^$replace=/^[\s\S]*/BLOCKED/
