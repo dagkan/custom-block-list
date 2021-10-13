@@ -5,3 +5,10 @@
 ||*.turkiye.com.tr^$replace=/^[\s\S]*/BLOCKED/
 ||*.yeniakit.com.tr^$replace=/^[\s\S]*/BLOCKED/
 ||*.internethaber.com^$replace=/^[\s\S]*/BLOCKED/
+
+airlines-manager.com###mainPub
+filmmodu.net##div.container:nth-child(6)
+filmmodu.net##a:nth-child(2)
+filmmodu.net###sb > div.csb
+filmmodu.net##div.watch-page:nth-child(7) > div.container:first-child > div.row > div.col-md-12.col-xs-12:last-child > div.row:last-child
+filmmodu.net##footer.footer:nth-child(9)
