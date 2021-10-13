@@ -1,1 +1,9 @@
+#DOMAINS
+
 ||*.hurriyet.com.tr^$replace=/^[\s\S]*/BLOCKED/
+
+#OTHERS
+
+airlines-manager.com###mainPub
+trakt.tv###inbox-wrapper
+
