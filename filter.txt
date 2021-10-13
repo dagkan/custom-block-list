@@ -1,0 +1,2 @@
+||*.hurriyet.com.tr^$replace=/^[\s\S]*/BLOCKED/
+||*.milliyet.com.tr^$replace=/^[\s\S]*/BLOCKED/
